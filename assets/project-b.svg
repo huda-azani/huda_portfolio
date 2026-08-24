@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<defs><linearGradient id="b" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#c7f3ff"/><stop offset=".5" stop-color="#b8a8ff"/><stop offset="1" stop-color="#ffb8d5"/></linearGradient></defs>
+<rect width="1000" height="620" rx="35" fill="url(#b)"/>
+<rect x="75" y="70" width="850" height="480" rx="28" fill="#fff" fill-opacity=".9"/>
+<path d="M120 440C220 390 250 420 340 330S490 380 565 275S690 320 770 210S850 250 890 160" fill="none" stroke="#6657e8" stroke-width="8"/>
+<path d="M120 440C220 390 250 420 340 330S490 380 565 275S690 320 770 210S850 250 890 160" fill="none" stroke="white" stroke-width="2"/>
+<text x="120" y="135" font-family="Arial" font-size="18" font-weight="700" fill="#6657e8">MACHINE LEARNING</text>
+<text x="120" y="180" font-family="Arial" font-size="32" font-weight="700" fill="#171526">STOCK PRICE PREDICTION</text>
+<circle cx="565" cy="275" r="11" fill="#ef5da8"/>
+</svg>

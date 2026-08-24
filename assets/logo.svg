@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#6d5dfc"/><stop offset=".5" stop-color="#ef5da8"/><stop offset="1" stop-color="#ff9f43"/></linearGradient></defs>
+<text x="12" y="78" font-family="Arial" font-size="68" font-weight="800" letter-spacing="-4" fill="#171526">PAWAN</text>
+<circle cx="462" cy="28" r="12" fill="url(#g)"/><path d="M15 96h255" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+</svg>

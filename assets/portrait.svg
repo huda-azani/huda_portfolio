@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9d4ff"/><stop offset=".45" stop-color="#ffd7ea"/><stop offset="1" stop-color="#ffe6c7"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="760" height="900" rx="55" fill="url(#bg)"/>
+<circle cx="600" cy="140" r="210" fill="url(#glow)"/>
+<circle cx="380" cy="340" r="128" fill="#f0f3f8"/>
+<path d="M165 760c25-190 115-275 215-275s190 85 215 275" fill="#f0f3f8"/>
+<path d="M245 345c15-105 82-155 140-155 75 0 120 60 130 145-42-34-88-47-141-47-55 0-93 20-129 57z" fill="#b5bdc9"/>
+<circle cx="337" cy="350" r="7" fill="#626b79"/><circle cx="425" cy="350" r="7" fill="#626b79"/>
+<path d="M350 410c20 15 41 15 60 0" fill="none" stroke="#8a93a0" stroke-width="5" stroke-linecap="round"/>
+<text x="380" y="840" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" letter-spacing="4" fill="#6d5dfc">YOUR PHOTO</text>
+</svg>

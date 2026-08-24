@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<rect width="1000" height="620" rx="35" fill="#fff2df"/>
+<rect x="75" y="70" width="850" height="480" rx="28" fill="#fff" stroke="#ffd9ae"/>
+<rect x="115" y="115" width="260" height="365" rx="22" fill="#fff7ec"/><rect x="405" y="115" width="470" height="105" rx="22" fill="#f8f5ff"/><rect x="405" y="245" width="220" height="235" rx="22" fill="#f0fbff"/><rect x="655" y="245" width="220" height="235" rx="22" fill="#fff2f8"/>
+<circle cx="245" cy="295" r="70" fill="#ffb45a" opacity=".35"/>
+<text x="435" y="165" font-family="Arial" font-size="27" font-weight="700" fill="#171526">LEAVE MANAGEMENT</text>
+<text x="435" y="195" font-family="Arial" font-size="13" fill="#8a8498">PROCEDURES · TRIGGERS · REPORTING</text>
+</svg>
